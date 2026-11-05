@@ -16,15 +16,7 @@ The Louisiana State University School of Information Studies was awarded $91,430
 
 According to the U.S. Department of Veterans Affairs, VeVs are defined as those who served in the Republic of Vietnam between November 1, 1955, and May 7, 1975, and those who served outside the Republic of Vietnam between August 5, 1964, and May 7, 1975. 
 
-Grounded in the results of a previously funded study, the project will do the following:
-
-    Survey and analyze rich ethnographic data from Vietnam-era veterans about their service records and existing records-related needs.
-
-    Develop and enhance collaborations around access and support across the spectrum of veterans records, such as personal, service, and medical records, between libraries, archives, veterans, and veteran service organizations.
-
-    Identify new opportunities to connect VeVs with support, including community, library, and veteran specific services.
-
- Learn more about the project and participate here: https://www.virtualfootlocker.com/vfp2/about   
+Learn more about the project and participate here: https://www.virtualfootlocker.com/vfp2/about   
 
 
 
