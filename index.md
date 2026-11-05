@@ -9,8 +9,9 @@ I am currently an associate professor in the School of Information Sciences at K
 
 My research focuses on sustainable recordkeeping, community engagement with records, professional career development, and archival education.
 
-Virtual Footlocker Project 2 (VFP2)
--Benoit, Edward, III, Soyka, Heather. “Virtual Footlocker Project 2: Supporting Vietnam-Era Veterans' Documentation of Their Military Record.” Institute of Museum and Library Services, 2025. Funded.
+# Virtual Footlocker Project 2 (VFP2)
+
+Benoit, Edward, III, Soyka, Heather. “Virtual Footlocker Project 2: Supporting Vietnam-Era Veterans' Documentation of Their Military Record.” Institute of Museum and Library Services, 2025. Funded.
 
 The Louisiana State University School of Information Studies was awarded $91,430 from the Institute of Museum and Library Services National Leadership Grants for Libraries as a planning grant under Goal 2 (Objective 2.2: Develop or enhance collaborations between libraries and stakeholders to address community needs) and NLGL Objective 1.2 (Improve community well-being through libraries and archives). For Virtual Footlocker Project 2 (VFP 2), Dr. Edward Benoit, III (Louisiana State University) and Dr. Heather Soyka (Kent State University) will serve as PIs. The VFP 2 project is a two-year planning project (August 2025- July 2027) that will develop an implementable program for LIS practitioners and Veteran Service Organizations to support Vietnam-era veterans (VeV) by creating, locating, and collecting records that document their time in service. While contemporary servicemembers have been encouraged to keep their own service records, previous generations did not have this same guidance. 
 
